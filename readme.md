@@ -1,3 +1,5 @@
+原文地址：https://liujiao111.github.io/2019/06/13/git-learn/
+
 
 # GIT基础以及本地版本管理
 ### git设置用户名和邮箱：
