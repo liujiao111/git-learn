@@ -1,3 +1,8 @@
+## 分支的分类
+- Feature Branch 
+- Release Branch
+- Hotfix Branch
+
 
 ## 新建一个dev分支，并提交到远程
 - git checkout dev
