@@ -18,3 +18,28 @@
 - 将myfeature分支合并到dev分支 git merge --no-ff myfeature
 - 删除myfeature分支  git brach -d myfeature
 - 提交到远程dev分支 git push origin dev
+
+
+#### 查看各个分支最后一次提交记录
+git branch -v
+
+#### 查看已合并和未合并的分支
+git branch --merged 和 git branch --no-merged
+
+
+未合并的分支删除时会报错，如果需要强制删除，请使用-D参数
+git branch -D hotfix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
