@@ -5,7 +5,7 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://120.27.12.173:3306/mapboxx?characterEncoding=utf8
     username: lxq
-    password: Lxq410221@5214
+    password: Lxq410221@52141
   jpa:
     database: mysql
     show-sql: true
