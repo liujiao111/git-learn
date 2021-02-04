@@ -1,5 +1,13 @@
 server2: nnnnn
 
+mail:
+  host: smtp.163.com
+  user: liujiao18880441791@163.com
+  pwd: YLCXBMBGITCYBFTN
+  from: liujiao18880441791@163.com
+
+
+
 spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
