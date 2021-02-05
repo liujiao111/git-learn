@@ -6,6 +6,9 @@ mail:
   pwd: YLCXBMBGITCYBFTN
   from: liujiao18880441791@163.com
 
+iplimit:
+  time: 30*1000
+  count: 3
 
 
 spring:
